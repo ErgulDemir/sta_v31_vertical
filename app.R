@@ -78,7 +78,7 @@ ui <- fluidPage(
       div(class = "title-section",
               div(class = "header-line-before"), # Thicker white line before main title
               h2("Statistical Technique Advisor", align = "center", style = "font-weight: bold;"),
-              h3("(sta.v4)", align = "center", style = "font-weight: bold;"),
+              h3("(STA 3.1)", align = "center", style = "font-weight: bold;"),
               br(),
               p("\u00A9 August 2024, designed and coded by Ergul Demir", class = "copyright"),
               p(a(href = "https://orcid.org/0000-0002-3708-8013", "ORCID: 0000-0002-3708-8013", class = "orcid"), class = "orcid"),
